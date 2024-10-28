@@ -7,7 +7,7 @@
 
 import Foundation
 
-class Solution {
+class EvaluateReversePolishNotation {
     func evalRPN(_ tokens: [String]) -> Int {
         var arr = [Int]()
 
