@@ -28,6 +28,7 @@
 		42D775762CD1CE50007F4B77 /* 69. Sqrt(x).swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D775752CD1CE50007F4B77 /* 69. Sqrt(x).swift */; };
 		42D775782CD1D22A007F4B77 /* 252. Meeting Rooms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D775772CD1D22A007F4B77 /* 252. Meeting Rooms.swift */; };
 		42D7757A2CD1E6F1007F4B77 /* 167. Two Sum II - Input Array Is Sorted.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D775792CD1E6F1007F4B77 /* 167. Two Sum II - Input Array Is Sorted.swift */; };
+		42D7757C2CD1E906007F4B77 /* 1. Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D7757B2CD1E906007F4B77 /* 1. Two Sum.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +55,7 @@
 		42D775752CD1CE50007F4B77 /* 69. Sqrt(x).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "69. Sqrt(x).swift"; sourceTree = "<group>"; };
 		42D775772CD1D22A007F4B77 /* 252. Meeting Rooms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "252. Meeting Rooms.swift"; sourceTree = "<group>"; };
 		42D775792CD1E6F1007F4B77 /* 167. Two Sum II - Input Array Is Sorted.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "167. Two Sum II - Input Array Is Sorted.swift"; sourceTree = "<group>"; };
+		42D7757B2CD1E906007F4B77 /* 1. Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1. Two Sum.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 				42BB9D652CCF14E900A8CB57 /* LaunchScreen.storyboard */,
 				42BB9D682CCF14E900A8CB57 /* Info.plist */,
 				42BB9D782CCF16FC00A8CB57 /* ListNode.swift */,
+				42D7757B2CD1E906007F4B77 /* 1. Two Sum.swift */,
 				42BB9D802CCF183F00A8CB57 /* 9. Palindrome Number.swift */,
 				42BB9D722CCF162D00A8CB57 /* 20. Valid Parentheses.swift */,
 				42BB9D762CCF16CE00A8CB57 /* 21. Merge Two Sorted Lists.swift */,
@@ -187,6 +190,7 @@
 				42BB9D712CCF159400A8CB57 /* 150. Evaluate Reverse Polish Notation.swift in Sources */,
 				42BB9D5F2CCF14E600A8CB57 /* ViewController.swift in Sources */,
 				42BB9D852CCF250F00A8CB57 /* 66. Plus One.swift in Sources */,
+				42D7757C2CD1E906007F4B77 /* 1. Two Sum.swift in Sources */,
 				42BB9D772CCF16CE00A8CB57 /* 21. Merge Two Sorted Lists.swift in Sources */,
 				42BB9D5B2CCF14E600A8CB57 /* AppDelegate.swift in Sources */,
 				42BB9D732CCF162D00A8CB57 /* 20. Valid Parentheses.swift in Sources */,
