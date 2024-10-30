@@ -12,13 +12,10 @@ class TwoSum2InputArrayIsSorted {
         var dict = [Int: Int]()
 
         for i in 0..<numbers.count {
-            dict[numbers[i]] = i
-        }
-
-        for i in 0..<numbers.count {
             if let j = dict[target - numbers[i]] {
-                return [i + 1, j + 1]
+                return [j + 1, i + 1]
             }
+            dict[numbers[i]] = i
         }
         return []
     }
