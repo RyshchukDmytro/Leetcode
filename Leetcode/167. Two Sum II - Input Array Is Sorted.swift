@@ -7,6 +7,7 @@
 
 import Foundation
 
+// Beats 100% O(1), O(N)
 class TwoSum2InputArrayIsSorted {
     func twoSum(_ numbers: [Int], _ target: Int) -> [Int] {
         var dict = [Int: Int]()

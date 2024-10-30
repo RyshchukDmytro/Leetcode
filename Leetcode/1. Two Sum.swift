@@ -7,6 +7,7 @@
 
 import Foundation
 
+// Beats 62% O(N), O(N)
 class TwoSum {
     func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
         var dict = [Int: Int]()
