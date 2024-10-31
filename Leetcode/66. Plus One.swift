@@ -17,22 +17,17 @@ class PlusOne {
             remainder = 0
 
             if current > 9 {
-                arr.append(current%10)
+                arr.insert(current%10, at: 0)
                 remainder += 1
             } else {
-                arr.append(current)
+                arr.insert(current, at: 0)
             }
         }
 
         if remainder != 0 {
-            arr.append(remainder)
+            arr.insert(remainder, at: 0)
         }
 
-        var newArr = [Int]()
-        for num in arr {
-            newArr.insert(num, at: 0)
-        }
-
-        return newArr
+        return arr
     }
 }
