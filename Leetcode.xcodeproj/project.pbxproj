@@ -14,6 +14,9 @@
 		42A7FD102CD403C900F02D75 /* 7. Reverse Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A7FD0F2CD403C900F02D75 /* 7. Reverse Integer.swift */; };
 		42A7FD122CD4883D00F02D75 /* 539. Minimum Time Difference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A7FD112CD4883D00F02D75 /* 539. Minimum Time Difference.swift */; };
 		42A7FD142CD5D22700F02D75 /* 58. Length of Last Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A7FD132CD5D22700F02D75 /* 58. Length of Last Word.swift */; };
+		42A7FD162CD6AF5100F02D75 /* 258. Add Digits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A7FD152CD6AF5100F02D75 /* 258. Add Digits.swift */; };
+		42A7FD182CD6B2AC00F02D75 /* 268. Missing Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A7FD172CD6B2AC00F02D75 /* 268. Missing Number.swift */; };
+		42A7FD1A2CD6B49D00F02D75 /* 326. Power of Three.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A7FD192CD6B49D00F02D75 /* 326. Power of Three.swift */; };
 		42BB9D5B2CCF14E600A8CB57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */; };
 		42BB9D5D2CCF14E600A8CB57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */; };
 		42BB9D5F2CCF14E600A8CB57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5E2CCF14E600A8CB57 /* ViewController.swift */; };
@@ -49,6 +52,9 @@
 		42A7FD0F2CD403C900F02D75 /* 7. Reverse Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "7. Reverse Integer.swift"; sourceTree = "<group>"; };
 		42A7FD112CD4883D00F02D75 /* 539. Minimum Time Difference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "539. Minimum Time Difference.swift"; sourceTree = "<group>"; };
 		42A7FD132CD5D22700F02D75 /* 58. Length of Last Word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "58. Length of Last Word.swift"; sourceTree = "<group>"; };
+		42A7FD152CD6AF5100F02D75 /* 258. Add Digits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "258. Add Digits.swift"; sourceTree = "<group>"; };
+		42A7FD172CD6B2AC00F02D75 /* 268. Missing Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "268. Missing Number.swift"; sourceTree = "<group>"; };
+		42A7FD192CD6B49D00F02D75 /* 326. Power of Three.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "326. Power of Three.swift"; sourceTree = "<group>"; };
 		42BB9D572CCF14E600A8CB57 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -134,6 +140,9 @@
 				42D7757D2CD1EB34007F4B77 /* 170. Two Sum III - Data structure design.swift */,
 				42D775812CD1F27F007F4B77 /* 231. Power of Two.swift */,
 				42D775772CD1D22A007F4B77 /* 252. Meeting Rooms.swift */,
+				42A7FD152CD6AF5100F02D75 /* 258. Add Digits.swift */,
+				42A7FD172CD6B2AC00F02D75 /* 268. Missing Number.swift */,
+				42A7FD192CD6B49D00F02D75 /* 326. Power of Three.swift */,
 				42A7FD112CD4883D00F02D75 /* 539. Minimum Time Difference.swift */,
 				42D775712CD07501007F4B77 /* 1249. Minimum Remove to Make Valid Parentheses.swift */,
 				42A7FD092CD3151300F02D75 /* 1768. Merge Strings Alternately.swift */,
@@ -230,13 +239,16 @@
 				42BB9D732CCF162D00A8CB57 /* 20. Valid Parentheses.swift in Sources */,
 				42A7FD0C2CD318B400F02D75 /* 2582. Pass the Pillow.swift in Sources */,
 				42BB9D7D2CCF17D400A8CB57 /* 53. Maximum Subarray.swift in Sources */,
+				42A7FD182CD6B2AC00F02D75 /* 268. Missing Number.swift in Sources */,
 				42D775722CD07501007F4B77 /* 1249. Minimum Remove to Make Valid Parentheses.swift in Sources */,
 				42BB9D7B2CCF175F00A8CB57 /* 141. Linked List Cycle.swift in Sources */,
+				42A7FD162CD6AF5100F02D75 /* 258. Add Digits.swift in Sources */,
 				42D7757E2CD1EB34007F4B77 /* 170. Two Sum III - Data structure design.swift in Sources */,
 				42D775822CD1F27F007F4B77 /* 231. Power of Two.swift in Sources */,
 				42D7757A2CD1E6F1007F4B77 /* 167. Two Sum II - Input Array Is Sorted.swift in Sources */,
 				42A7FD0E2CD3FA5900F02D75 /* 2706. Buy Two Chocolates.swift in Sources */,
 				42D775742CD1C93E007F4B77 /* 2309. Greatest English Letter in Upper and Lower Case.swift in Sources */,
+				42A7FD1A2CD6B49D00F02D75 /* 326. Power of Three.swift in Sources */,
 				42BB9D832CCF18B900A8CB57 /* 70. Climbing Stairs.swift in Sources */,
 				42D775802CD1F0D8007F4B77 /* 2235. Add Two Integers.swift in Sources */,
 				42D775762CD1CE50007F4B77 /* 69. Sqrt(x).swift in Sources */,
