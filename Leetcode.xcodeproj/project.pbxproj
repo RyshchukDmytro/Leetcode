@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4242C78B2CD9702F006E4C86 /* 206. Reverse Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4242C78A2CD9702D006E4C86 /* 206. Reverse Linked List.swift */; };
 		42A7FD082CD311C100F02D75 /* 121. Best Time to Buy and Sell Stock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A7FD072CD311C100F02D75 /* 121. Best Time to Buy and Sell Stock.swift */; };
 		42A7FD0A2CD3151300F02D75 /* 1768. Merge Strings Alternately.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A7FD092CD3151300F02D75 /* 1768. Merge Strings Alternately.swift */; };
 		42A7FD0C2CD318B400F02D75 /* 2582. Pass the Pillow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A7FD0B2CD318B400F02D75 /* 2582. Pass the Pillow.swift */; };
@@ -49,6 +50,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4242C78A2CD9702D006E4C86 /* 206. Reverse Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "206. Reverse Linked List.swift"; sourceTree = "<group>"; };
 		42A7FD072CD311C100F02D75 /* 121. Best Time to Buy and Sell Stock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "121. Best Time to Buy and Sell Stock.swift"; sourceTree = "<group>"; };
 		42A7FD092CD3151300F02D75 /* 1768. Merge Strings Alternately.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1768. Merge Strings Alternately.swift"; sourceTree = "<group>"; };
 		42A7FD0B2CD318B400F02D75 /* 2582. Pass the Pillow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2582. Pass the Pillow.swift"; sourceTree = "<group>"; };
@@ -148,6 +150,7 @@
 				42BB9D702CCF159400A8CB57 /* 150. Evaluate Reverse Polish Notation.swift */,
 				42D775792CD1E6F1007F4B77 /* 167. Two Sum II - Input Array Is Sorted.swift */,
 				42D7757D2CD1EB34007F4B77 /* 170. Two Sum III - Data structure design.swift */,
+				4242C78A2CD9702D006E4C86 /* 206. Reverse Linked List.swift */,
 				42D775812CD1F27F007F4B77 /* 231. Power of Two.swift */,
 				42A7FD1F2CD7F68A00F02D75 /* 242. Valid Anagram.swift */,
 				42D775772CD1D22A007F4B77 /* 252. Meeting Rooms.swift */,
@@ -242,6 +245,7 @@
 				42BB9D712CCF159400A8CB57 /* 150. Evaluate Reverse Polish Notation.swift in Sources */,
 				42A7FD0A2CD3151300F02D75 /* 1768. Merge Strings Alternately.swift in Sources */,
 				42BB9D5F2CCF14E600A8CB57 /* ViewController.swift in Sources */,
+				4242C78B2CD9702F006E4C86 /* 206. Reverse Linked List.swift in Sources */,
 				42A7FD102CD403C900F02D75 /* 7. Reverse Integer.swift in Sources */,
 				42BB9D852CCF250F00A8CB57 /* 66. Plus One.swift in Sources */,
 				42A7FD142CD5D22700F02D75 /* 58. Length of Last Word.swift in Sources */,
