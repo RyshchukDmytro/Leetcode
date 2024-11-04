@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4242C78B2CD9702F006E4C86 /* 206. Reverse Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4242C78A2CD9702D006E4C86 /* 206. Reverse Linked List.swift */; };
+		4242C78D2CD9710A006E4C86 /* 234. Palindrome Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4242C78C2CD97107006E4C86 /* 234. Palindrome Linked List.swift */; };
 		42A7FD082CD311C100F02D75 /* 121. Best Time to Buy and Sell Stock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A7FD072CD311C100F02D75 /* 121. Best Time to Buy and Sell Stock.swift */; };
 		42A7FD0A2CD3151300F02D75 /* 1768. Merge Strings Alternately.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A7FD092CD3151300F02D75 /* 1768. Merge Strings Alternately.swift */; };
 		42A7FD0C2CD318B400F02D75 /* 2582. Pass the Pillow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A7FD0B2CD318B400F02D75 /* 2582. Pass the Pillow.swift */; };
@@ -51,6 +52,7 @@
 
 /* Begin PBXFileReference section */
 		4242C78A2CD9702D006E4C86 /* 206. Reverse Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "206. Reverse Linked List.swift"; sourceTree = "<group>"; };
+		4242C78C2CD97107006E4C86 /* 234. Palindrome Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "234. Palindrome Linked List.swift"; sourceTree = "<group>"; };
 		42A7FD072CD311C100F02D75 /* 121. Best Time to Buy and Sell Stock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "121. Best Time to Buy and Sell Stock.swift"; sourceTree = "<group>"; };
 		42A7FD092CD3151300F02D75 /* 1768. Merge Strings Alternately.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1768. Merge Strings Alternately.swift"; sourceTree = "<group>"; };
 		42A7FD0B2CD318B400F02D75 /* 2582. Pass the Pillow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2582. Pass the Pillow.swift"; sourceTree = "<group>"; };
@@ -152,6 +154,7 @@
 				42D7757D2CD1EB34007F4B77 /* 170. Two Sum III - Data structure design.swift */,
 				4242C78A2CD9702D006E4C86 /* 206. Reverse Linked List.swift */,
 				42D775812CD1F27F007F4B77 /* 231. Power of Two.swift */,
+				4242C78C2CD97107006E4C86 /* 234. Palindrome Linked List.swift */,
 				42A7FD1F2CD7F68A00F02D75 /* 242. Valid Anagram.swift */,
 				42D775772CD1D22A007F4B77 /* 252. Meeting Rooms.swift */,
 				42A7FD152CD6AF5100F02D75 /* 258. Add Digits.swift */,
@@ -267,6 +270,7 @@
 				42D775742CD1C93E007F4B77 /* 2309. Greatest English Letter in Upper and Lower Case.swift in Sources */,
 				42A7FD1E2CD7F57A00F02D75 /* 392. Is Subsequence.swift in Sources */,
 				42A7FD1A2CD6B49D00F02D75 /* 326. Power of Three.swift in Sources */,
+				4242C78D2CD9710A006E4C86 /* 234. Palindrome Linked List.swift in Sources */,
 				42A7FD1C2CD7F35F00F02D75 /* 125. Valid Palindrome.swift in Sources */,
 				42BB9D832CCF18B900A8CB57 /* 70. Climbing Stairs.swift in Sources */,
 				42D775802CD1F0D8007F4B77 /* 2235. Add Two Integers.swift in Sources */,
