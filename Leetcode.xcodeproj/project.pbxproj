@@ -10,6 +10,7 @@
 		420DD7922CDA773A00B85C71 /* 29. Divide Two Integers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420DD7912CDA773800B85C71 /* 29. Divide Two Integers.swift */; };
 		420DD7942CDA77C000B85C71 /* 189. Rotate Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420DD7932CDA77BF00B85C71 /* 189. Rotate Array.swift */; };
 		420DD7962CDA782900B85C71 /* 412. Fizz Buzz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420DD7952CDA782800B85C71 /* 412. Fizz Buzz.swift */; };
+		420DD7C12CDBE01C00B85C71 /* 1668. Maximum Repeating Substring.swift in Sources */ = {isa = PBXBuildFile; fileRef = 420DD7C02CDBE01B00B85C71 /* 1668. Maximum Repeating Substring.swift */; };
 		4242C78B2CD9702F006E4C86 /* 206. Reverse Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4242C78A2CD9702D006E4C86 /* 206. Reverse Linked List.swift */; };
 		4242C78D2CD9710A006E4C86 /* 234. Palindrome Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4242C78C2CD97107006E4C86 /* 234. Palindrome Linked List.swift */; };
 		42A7FD082CD311C100F02D75 /* 121. Best Time to Buy and Sell Stock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A7FD072CD311C100F02D75 /* 121. Best Time to Buy and Sell Stock.swift */; };
@@ -57,6 +58,7 @@
 		420DD7912CDA773800B85C71 /* 29. Divide Two Integers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "29. Divide Two Integers.swift"; sourceTree = "<group>"; };
 		420DD7932CDA77BF00B85C71 /* 189. Rotate Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "189. Rotate Array.swift"; sourceTree = "<group>"; };
 		420DD7952CDA782800B85C71 /* 412. Fizz Buzz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "412. Fizz Buzz.swift"; sourceTree = "<group>"; };
+		420DD7C02CDBE01B00B85C71 /* 1668. Maximum Repeating Substring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1668. Maximum Repeating Substring.swift"; sourceTree = "<group>"; };
 		4242C78A2CD9702D006E4C86 /* 206. Reverse Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "206. Reverse Linked List.swift"; sourceTree = "<group>"; };
 		4242C78C2CD97107006E4C86 /* 234. Palindrome Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "234. Palindrome Linked List.swift"; sourceTree = "<group>"; };
 		42A7FD072CD311C100F02D75 /* 121. Best Time to Buy and Sell Stock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "121. Best Time to Buy and Sell Stock.swift"; sourceTree = "<group>"; };
@@ -172,6 +174,7 @@
 				420DD7952CDA782800B85C71 /* 412. Fizz Buzz.swift */,
 				42A7FD112CD4883D00F02D75 /* 539. Minimum Time Difference.swift */,
 				42D775712CD07501007F4B77 /* 1249. Minimum Remove to Make Valid Parentheses.swift */,
+				420DD7C02CDBE01B00B85C71 /* 1668. Maximum Repeating Substring.swift */,
 				42A7FD092CD3151300F02D75 /* 1768. Merge Strings Alternately.swift */,
 				42A7FD0B2CD318B400F02D75 /* 2582. Pass the Pillow.swift */,
 				42D7757F2CD1F0D8007F4B77 /* 2235. Add Two Integers.swift */,
@@ -269,6 +272,7 @@
 				42BB9D7D2CCF17D400A8CB57 /* 53. Maximum Subarray.swift in Sources */,
 				420DD7922CDA773A00B85C71 /* 29. Divide Two Integers.swift in Sources */,
 				42A7FD182CD6B2AC00F02D75 /* 268. Missing Number.swift in Sources */,
+				420DD7C12CDBE01C00B85C71 /* 1668. Maximum Repeating Substring.swift in Sources */,
 				42D775722CD07501007F4B77 /* 1249. Minimum Remove to Make Valid Parentheses.swift in Sources */,
 				42BB9D7B2CCF175F00A8CB57 /* 141. Linked List Cycle.swift in Sources */,
 				42A7FD222CD7FE8D00F02D75 /* 83. Remove Duplicates from Sorted List.swift in Sources */,
