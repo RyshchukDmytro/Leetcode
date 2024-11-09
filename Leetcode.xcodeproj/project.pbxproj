@@ -47,6 +47,7 @@
 		42BB9D852CCF250F00A8CB57 /* 66. Plus One.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D842CCF250F00A8CB57 /* 66. Plus One.swift */; };
 		42D6E8272D30A21600E832FB /* 3. Longest Substring Without Repeating Characters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D6E8262D30A21600E832FB /* 3. Longest Substring Without Repeating Characters.swift */; };
 		42D6E8292D30A21600E832FB /* 13. Roman to Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D6E8282D30A21600E832FB /* 13. Roman to Integer.swift */; };
+		42D6E82D2D30A21600E832FB /* 14. Longest Common Prefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D6E82C2D30A21600E832FB /* 14. Longest Common Prefix.swift */; };
 		42D775722CD07501007F4B77 /* 1249. Minimum Remove to Make Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D775712CD07501007F4B77 /* 1249. Minimum Remove to Make Valid Parentheses.swift */; };
 		42D775742CD1C93E007F4B77 /* 2309. Greatest English Letter in Upper and Lower Case.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D775732CD1C93E007F4B77 /* 2309. Greatest English Letter in Upper and Lower Case.swift */; };
 		42D775762CD1CE50007F4B77 /* 69. Sqrt(x).swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D775752CD1CE50007F4B77 /* 69. Sqrt(x).swift */; };
@@ -101,6 +102,7 @@
 		42BB9D842CCF250F00A8CB57 /* 66. Plus One.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "66. Plus One.swift"; sourceTree = "<group>"; };
 		42D6E8262D30A21600E832FB /* 3. Longest Substring Without Repeating Characters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3. Longest Substring Without Repeating Characters.swift"; sourceTree = "<group>"; };
 		42D6E8282D30A21600E832FB /* 13. Roman to Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "13. Roman to Integer.swift"; sourceTree = "<group>"; };
+		42D6E82C2D30A21600E832FB /* 14. Longest Common Prefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "14. Longest Common Prefix.swift"; sourceTree = "<group>"; };
 		42D775712CD07501007F4B77 /* 1249. Minimum Remove to Make Valid Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1249. Minimum Remove to Make Valid Parentheses.swift"; sourceTree = "<group>"; };
 		42D775732CD1C93E007F4B77 /* 2309. Greatest English Letter in Upper and Lower Case.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2309. Greatest English Letter in Upper and Lower Case.swift"; sourceTree = "<group>"; };
 		42D775752CD1CE50007F4B77 /* 69. Sqrt(x).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "69. Sqrt(x).swift"; sourceTree = "<group>"; };
@@ -156,6 +158,7 @@
 				42A7FD0F2CD403C900F02D75 /* 7. Reverse Integer.swift */,
 				42BB9D802CCF183F00A8CB57 /* 9. Palindrome Number.swift */,
 				42D6E8282D30A21600E832FB /* 13. Roman to Integer.swift */,
+				42D6E82C2D30A21600E832FB /* 14. Longest Common Prefix.swift */,
 				42BB9D722CCF162D00A8CB57 /* 20. Valid Parentheses.swift */,
 				42BB9D762CCF16CE00A8CB57 /* 21. Merge Two Sorted Lists.swift */,
 				420DD7912CDA773800B85C71 /* 29. Divide Two Integers.swift */,
@@ -297,6 +300,7 @@
 				420DD7F42CDD5D8500B85C71 /* 4. Median of Two Sorted Arrays.swift in Sources */,
 				42D7757A2CD1E6F1007F4B77 /* 167. Two Sum II - Input Array Is Sorted.swift in Sources */,
 				42A7FD0E2CD3FA5900F02D75 /* 2706. Buy Two Chocolates.swift in Sources */,
+				42D6E82D2D30A21600E832FB /* 14. Longest Common Prefix.swift in Sources */,
 				42D775742CD1C93E007F4B77 /* 2309. Greatest English Letter in Upper and Lower Case.swift in Sources */,
 				42A7FD1E2CD7F57A00F02D75 /* 392. Is Subsequence.swift in Sources */,
 				42A7FD1A2CD6B49D00F02D75 /* 326. Power of Three.swift in Sources */,
