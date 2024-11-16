@@ -52,6 +52,7 @@
 		42D6E8332D30ABCB00E832FB /* 27. Remove Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D6E8322D30ABC200E832FB /* 27. Remove Element.swift */; };
 		42D6E8372D30ABCB00E832FB /* 28. Find the Index of the First Occurrence in a String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D6E8362D30ABCB00E832FB /* 28. Find the Index of the First Occurrence in a String.swift */; };
 		42D6E8392D30ABCB00E832FB /* 34. Find First and Last Position of Element in Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D6E8382D30ABCB00E832FB /* 34. Find First and Last Position of Element in Sorted Array.swift */; };
+		42D6E83B2D30ABCB00E832FB /* 41. First Missing Positive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D6E83A2D30ABCB00E832FB /* 41. First Missing Positive.swift */; };
 		42D775722CD07501007F4B77 /* 1249. Minimum Remove to Make Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D775712CD07501007F4B77 /* 1249. Minimum Remove to Make Valid Parentheses.swift */; };
 		42D775742CD1C93E007F4B77 /* 2309. Greatest English Letter in Upper and Lower Case.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D775732CD1C93E007F4B77 /* 2309. Greatest English Letter in Upper and Lower Case.swift */; };
 		42D775762CD1CE50007F4B77 /* 69. Sqrt(x).swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D775752CD1CE50007F4B77 /* 69. Sqrt(x).swift */; };
@@ -111,6 +112,7 @@
 		42D6E8322D30ABC200E832FB /* 27. Remove Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "27. Remove Element.swift"; sourceTree = "<group>"; };
 		42D6E8362D30ABCB00E832FB /* 28. Find the Index of the First Occurrence in a String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "28. Find the Index of the First Occurrence in a String.swift"; sourceTree = "<group>"; };
 		42D6E8382D30ABCB00E832FB /* 34. Find First and Last Position of Element in Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "34. Find First and Last Position of Element in Sorted Array.swift"; sourceTree = "<group>"; };
+		42D6E83A2D30ABCB00E832FB /* 41. First Missing Positive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "41. First Missing Positive.swift"; sourceTree = "<group>"; };
 		42D775712CD07501007F4B77 /* 1249. Minimum Remove to Make Valid Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1249. Minimum Remove to Make Valid Parentheses.swift"; sourceTree = "<group>"; };
 		42D775732CD1C93E007F4B77 /* 2309. Greatest English Letter in Upper and Lower Case.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2309. Greatest English Letter in Upper and Lower Case.swift"; sourceTree = "<group>"; };
 		42D775752CD1CE50007F4B77 /* 69. Sqrt(x).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "69. Sqrt(x).swift"; sourceTree = "<group>"; };
@@ -175,6 +177,7 @@
 				420DD7912CDA773800B85C71 /* 29. Divide Two Integers.swift */,
 				42BB9D7E2CCF180000A8CB57 /* 33. Search in Rotated Sorted Array.swift */,
 				42D6E8382D30ABCB00E832FB /* 34. Find First and Last Position of Element in Sorted Array.swift */,
+				42D6E83A2D30ABCB00E832FB /* 41. First Missing Positive.swift */,
 				42BB9D7C2CCF17D400A8CB57 /* 53. Maximum Subarray.swift */,
 				420DD7C22CDBE10900B85C71 /* 55. Jump Game.swift */,
 				42A7FD132CD5D22700F02D75 /* 58. Length of Last Word.swift */,
@@ -304,6 +307,7 @@
 				420DD7922CDA773A00B85C71 /* 29. Divide Two Integers.swift in Sources */,
 				42A7FD182CD6B2AC00F02D75 /* 268. Missing Number.swift in Sources */,
 				420DD7C12CDBE01C00B85C71 /* 1668. Maximum Repeating Substring.swift in Sources */,
+				42D6E83B2D30ABCB00E832FB /* 41. First Missing Positive.swift in Sources */,
 				42D6E8332D30ABCB00E832FB /* 27. Remove Element.swift in Sources */,
 				42D775722CD07501007F4B77 /* 1249. Minimum Remove to Make Valid Parentheses.swift in Sources */,
 				42BB9D7B2CCF175F00A8CB57 /* 141. Linked List Cycle.swift in Sources */,
