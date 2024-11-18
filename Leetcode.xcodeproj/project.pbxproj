@@ -54,6 +54,7 @@
 		42D6E8392D30ABCB00E832FB /* 34. Find First and Last Position of Element in Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D6E8382D30ABCB00E832FB /* 34. Find First and Last Position of Element in Sorted Array.swift */; };
 		42D6E83B2D30ABCB00E832FB /* 41. First Missing Positive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D6E83A2D30ABCB00E832FB /* 41. First Missing Positive.swift */; };
 		42D6E83D2D30ABCB00E832FB /* 48. Rotate Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D6E83C2D30ABCB00E832FB /* 48. Rotate Image.swift */; };
+		42D6E83F2D30ABCB00E832FB /* 71. Simplify Path.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D6E83E2D30ABCB00E832FB /* 71. Simplify Path.swift */; };
 		42D775722CD07501007F4B77 /* 1249. Minimum Remove to Make Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D775712CD07501007F4B77 /* 1249. Minimum Remove to Make Valid Parentheses.swift */; };
 		42D775742CD1C93E007F4B77 /* 2309. Greatest English Letter in Upper and Lower Case.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D775732CD1C93E007F4B77 /* 2309. Greatest English Letter in Upper and Lower Case.swift */; };
 		42D775762CD1CE50007F4B77 /* 69. Sqrt(x).swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D775752CD1CE50007F4B77 /* 69. Sqrt(x).swift */; };
@@ -115,6 +116,7 @@
 		42D6E8382D30ABCB00E832FB /* 34. Find First and Last Position of Element in Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "34. Find First and Last Position of Element in Sorted Array.swift"; sourceTree = "<group>"; };
 		42D6E83A2D30ABCB00E832FB /* 41. First Missing Positive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "41. First Missing Positive.swift"; sourceTree = "<group>"; };
 		42D6E83C2D30ABCB00E832FB /* 48. Rotate Image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "48. Rotate Image.swift"; sourceTree = "<group>"; };
+		42D6E83E2D30ABCB00E832FB /* 71. Simplify Path.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "71. Simplify Path.swift"; sourceTree = "<group>"; };
 		42D775712CD07501007F4B77 /* 1249. Minimum Remove to Make Valid Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1249. Minimum Remove to Make Valid Parentheses.swift"; sourceTree = "<group>"; };
 		42D775732CD1C93E007F4B77 /* 2309. Greatest English Letter in Upper and Lower Case.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2309. Greatest English Letter in Upper and Lower Case.swift"; sourceTree = "<group>"; };
 		42D775752CD1CE50007F4B77 /* 69. Sqrt(x).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "69. Sqrt(x).swift"; sourceTree = "<group>"; };
@@ -187,6 +189,7 @@
 				42BB9D842CCF250F00A8CB57 /* 66. Plus One.swift */,
 				42D775752CD1CE50007F4B77 /* 69. Sqrt(x).swift */,
 				42BB9D822CCF18B900A8CB57 /* 70. Climbing Stairs.swift */,
+				42D6E83E2D30ABCB00E832FB /* 71. Simplify Path.swift */,
 				42A7FD212CD7FE8D00F02D75 /* 83. Remove Duplicates from Sorted List.swift */,
 				42A7FD072CD311C100F02D75 /* 121. Best Time to Buy and Sell Stock.swift */,
 				42A7FD1B2CD7F35F00F02D75 /* 125. Valid Palindrome.swift */,
@@ -300,6 +303,7 @@
 				42A7FD142CD5D22700F02D75 /* 58. Length of Last Word.swift in Sources */,
 				42D6E8272D30A21600E832FB /* 3. Longest Substring Without Repeating Characters.swift in Sources */,
 				42D7757C2CD1E906007F4B77 /* 1. Two Sum.swift in Sources */,
+				42D6E83F2D30ABCB00E832FB /* 71. Simplify Path.swift in Sources */,
 				42D6E83D2D30ABCB00E832FB /* 48. Rotate Image.swift in Sources */,
 				42BB9D772CCF16CE00A8CB57 /* 21. Merge Two Sorted Lists.swift in Sources */,
 				42BB9D5B2CCF14E600A8CB57 /* AppDelegate.swift in Sources */,
