@@ -40,6 +40,7 @@
 		42B0C2F92D41B336008FCC8C /* 169. Majority Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C2F82D41B336008FCC8C /* 169. Majority Element.swift */; };
 		42B0C2FB2D41B336008FCC8C /* 122. Best Time to Buy and Sell Stock II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C2FA2D41B336008FCC8C /* 122. Best Time to Buy and Sell Stock II.swift */; };
 		42B0C2FD2D41B336008FCC8C /* 151. Reverse Words in a String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C2FC2D41B336008FCC8C /* 151. Reverse Words in a String.swift */; };
+		42B0C2FF2D41B336008FCC8C /* 283. Move Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C2FE2D41B336008FCC8C /* 283. Move Zeroes.swift */; };
 		42BB9D5B2CCF14E600A8CB57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */; };
 		42BB9D5D2CCF14E600A8CB57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */; };
 		42BB9D5F2CCF14E600A8CB57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5E2CCF14E600A8CB57 /* ViewController.swift */; };
@@ -112,6 +113,7 @@
 		42B0C2F82D41B336008FCC8C /* 169. Majority Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "169. Majority Element.swift"; sourceTree = "<group>"; };
 		42B0C2FA2D41B336008FCC8C /* 122. Best Time to Buy and Sell Stock II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "122. Best Time to Buy and Sell Stock II.swift"; sourceTree = "<group>"; };
 		42B0C2FC2D41B336008FCC8C /* 151. Reverse Words in a String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "151. Reverse Words in a String.swift"; sourceTree = "<group>"; };
+		42B0C2FE2D41B336008FCC8C /* 283. Move Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "283. Move Zeroes.swift"; sourceTree = "<group>"; };
 		42BB9D572CCF14E600A8CB57 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -239,6 +241,7 @@
 				42D775772CD1D22A007F4B77 /* 252. Meeting Rooms.swift */,
 				42A7FD152CD6AF5100F02D75 /* 258. Add Digits.swift */,
 				42A7FD172CD6B2AC00F02D75 /* 268. Missing Number.swift */,
+				42B0C2FE2D41B336008FCC8C /* 283. Move Zeroes.swift */,
 				42A7FD192CD6B49D00F02D75 /* 326. Power of Three.swift */,
 				42A7FD1D2CD7F57A00F02D75 /* 392. Is Subsequence.swift */,
 				420DD7952CDA782800B85C71 /* 412. Fizz Buzz.swift */,
@@ -328,6 +331,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				42A7FD082CD311C100F02D75 /* 121. Best Time to Buy and Sell Stock.swift in Sources */,
+				42B0C2FF2D41B336008FCC8C /* 283. Move Zeroes.swift in Sources */,
 				42BB9D792CCF16FD00A8CB57 /* ListNode.swift in Sources */,
 				42BB9D712CCF159400A8CB57 /* 150. Evaluate Reverse Polish Notation.swift in Sources */,
 				42A7FD0A2CD3151300F02D75 /* 1768. Merge Strings Alternately.swift in Sources */,
