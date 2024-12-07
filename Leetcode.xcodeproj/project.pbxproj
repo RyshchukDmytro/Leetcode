@@ -44,6 +44,7 @@
 		42B0C3012D41B336008FCC8C /* 290. Word Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3002D41B336008FCC8C /* 290. Word Pattern.swift */; };
 		42B0C3032D41B336008FCC8C /* 344. Reverse String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3022D41B336008FCC8C /* 344. Reverse String.swift */; };
 		42B0C3052D41B336008FCC8C /* 345. Reverse Vowels of a String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3042D41B336008FCC8C /* 345. Reverse Vowels of a String.swift */; };
+		42B0C3092D41B336008FCC8C /* 451. Sort Characters By Frequency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3082D41B336008FCC8C /* 451. Sort Characters By Frequency.swift */; };
 		42BB9D5B2CCF14E600A8CB57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */; };
 		42BB9D5D2CCF14E600A8CB57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */; };
 		42BB9D5F2CCF14E600A8CB57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5E2CCF14E600A8CB57 /* ViewController.swift */; };
@@ -120,6 +121,7 @@
 		42B0C3002D41B336008FCC8C /* 290. Word Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "290. Word Pattern.swift"; sourceTree = "<group>"; };
 		42B0C3022D41B336008FCC8C /* 344. Reverse String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "344. Reverse String.swift"; sourceTree = "<group>"; };
 		42B0C3042D41B336008FCC8C /* 345. Reverse Vowels of a String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "345. Reverse Vowels of a String.swift"; sourceTree = "<group>"; };
+		42B0C3082D41B336008FCC8C /* 451. Sort Characters By Frequency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "451. Sort Characters By Frequency.swift"; sourceTree = "<group>"; };
 		42BB9D572CCF14E600A8CB57 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -254,6 +256,7 @@
 				42B0C3042D41B336008FCC8C /* 345. Reverse Vowels of a String.swift */,
 				42A7FD1D2CD7F57A00F02D75 /* 392. Is Subsequence.swift */,
 				420DD7952CDA782800B85C71 /* 412. Fizz Buzz.swift */,
+				42B0C3082D41B336008FCC8C /* 451. Sort Characters By Frequency.swift */,
 				42A7FD112CD4883D00F02D75 /* 539. Minimum Time Difference.swift */,
 				42B0C2E82D409EA3008FCC8C /* 566. Reshape the Matrix.swift */,
 				42B0C2E42D408885008FCC8C /* 867. Transpose Matrix.swift */,
@@ -395,6 +398,7 @@
 				42B0C2ED2D41B336008FCC8C /* 88. Merge Sorted Array.swift in Sources */,
 				42A7FD1C2CD7F35F00F02D75 /* 125. Valid Palindrome.swift in Sources */,
 				42BB9D832CCF18B900A8CB57 /* 70. Climbing Stairs.swift in Sources */,
+				42B0C3092D41B336008FCC8C /* 451. Sort Characters By Frequency.swift in Sources */,
 				42D775802CD1F0D8007F4B77 /* 2235. Add Two Integers.swift in Sources */,
 				420DD7962CDA782900B85C71 /* 412. Fizz Buzz.swift in Sources */,
 				420DD7942CDA77C000B85C71 /* 189. Rotate Array.swift in Sources */,
