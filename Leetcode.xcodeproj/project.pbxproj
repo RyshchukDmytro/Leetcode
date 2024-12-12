@@ -49,6 +49,7 @@
 		42B0C30D2D41B336008FCC8C /* 509. Fibonacci Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C30C2D41B336008FCC8C /* 509. Fibonacci Number.swift */; };
 		42B0C30F2D41B336008FCC8C /* 520. Detect Capital.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C30E2D41B336008FCC8C /* 520. Detect Capital.swift */; };
 		42B0C3112D41B336008FCC8C /* 561. Array Partition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3102D41B336008FCC8C /* 561. Array Partition.swift */; };
+		42B0C3132D41B336008FCC8C /* 649. Dota2 Senate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3122D41B336008FCC8C /* 649. Dota2 Senate.swift */; };
 		42BB9D5B2CCF14E600A8CB57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */; };
 		42BB9D5D2CCF14E600A8CB57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */; };
 		42BB9D5F2CCF14E600A8CB57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5E2CCF14E600A8CB57 /* ViewController.swift */; };
@@ -130,6 +131,7 @@
 		42B0C30C2D41B336008FCC8C /* 509. Fibonacci Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "509. Fibonacci Number.swift"; sourceTree = "<group>"; };
 		42B0C30E2D41B336008FCC8C /* 520. Detect Capital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "520. Detect Capital.swift"; sourceTree = "<group>"; };
 		42B0C3102D41B336008FCC8C /* 561. Array Partition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "561. Array Partition.swift"; sourceTree = "<group>"; };
+		42B0C3122D41B336008FCC8C /* 649. Dota2 Senate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "649. Dota2 Senate.swift"; sourceTree = "<group>"; };
 		42BB9D572CCF14E600A8CB57 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -271,6 +273,7 @@
 				42A7FD112CD4883D00F02D75 /* 539. Minimum Time Difference.swift */,
 				42B0C3102D41B336008FCC8C /* 561. Array Partition.swift */,
 				42B0C2E82D409EA3008FCC8C /* 566. Reshape the Matrix.swift */,
+				42B0C3122D41B336008FCC8C /* 649. Dota2 Senate.swift */,
 				42B0C2E42D408885008FCC8C /* 867. Transpose Matrix.swift */,
 				42D775712CD07501007F4B77 /* 1249. Minimum Remove to Make Valid Parentheses.swift */,
 				420DD7C02CDBE01B00B85C71 /* 1668. Maximum Repeating Substring.swift */,
@@ -423,6 +426,7 @@
 				42B0C2F52D41B336008FCC8C /* 119. Pascal's Triangle II.swift in Sources */,
 				42B0C30D2D41B336008FCC8C /* 509. Fibonacci Number.swift in Sources */,
 				42BB9D7F2CCF180000A8CB57 /* 33. Search in Rotated Sorted Array.swift in Sources */,
+				42B0C3132D41B336008FCC8C /* 649. Dota2 Senate.swift in Sources */,
 				42A7FD202CD7F68A00F02D75 /* 242. Valid Anagram.swift in Sources */,
 				42A7FD122CD4883D00F02D75 /* 539. Minimum Time Difference.swift in Sources */,
 				42B0C2F72D41B336008FCC8C /* 214. Shortest Palindrome.swift in Sources */,
