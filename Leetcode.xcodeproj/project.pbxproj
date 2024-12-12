@@ -48,6 +48,7 @@
 		42B0C30B2D41B336008FCC8C /* 455. Assign Cookies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C30A2D41B336008FCC8C /* 455. Assign Cookies.swift */; };
 		42B0C30D2D41B336008FCC8C /* 509. Fibonacci Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C30C2D41B336008FCC8C /* 509. Fibonacci Number.swift */; };
 		42B0C30F2D41B336008FCC8C /* 520. Detect Capital.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C30E2D41B336008FCC8C /* 520. Detect Capital.swift */; };
+		42B0C3112D41B336008FCC8C /* 561. Array Partition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3102D41B336008FCC8C /* 561. Array Partition.swift */; };
 		42BB9D5B2CCF14E600A8CB57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */; };
 		42BB9D5D2CCF14E600A8CB57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */; };
 		42BB9D5F2CCF14E600A8CB57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5E2CCF14E600A8CB57 /* ViewController.swift */; };
@@ -128,6 +129,7 @@
 		42B0C30A2D41B336008FCC8C /* 455. Assign Cookies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "455. Assign Cookies.swift"; sourceTree = "<group>"; };
 		42B0C30C2D41B336008FCC8C /* 509. Fibonacci Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "509. Fibonacci Number.swift"; sourceTree = "<group>"; };
 		42B0C30E2D41B336008FCC8C /* 520. Detect Capital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "520. Detect Capital.swift"; sourceTree = "<group>"; };
+		42B0C3102D41B336008FCC8C /* 561. Array Partition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "561. Array Partition.swift"; sourceTree = "<group>"; };
 		42BB9D572CCF14E600A8CB57 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -267,6 +269,7 @@
 				42B0C30C2D41B336008FCC8C /* 509. Fibonacci Number.swift */,
 				42B0C30E2D41B336008FCC8C /* 520. Detect Capital.swift */,
 				42A7FD112CD4883D00F02D75 /* 539. Minimum Time Difference.swift */,
+				42B0C3102D41B336008FCC8C /* 561. Array Partition.swift */,
 				42B0C2E82D409EA3008FCC8C /* 566. Reshape the Matrix.swift */,
 				42B0C2E42D408885008FCC8C /* 867. Transpose Matrix.swift */,
 				42D775712CD07501007F4B77 /* 1249. Minimum Remove to Make Valid Parentheses.swift */,
@@ -353,6 +356,7 @@
 			files = (
 				42A7FD082CD311C100F02D75 /* 121. Best Time to Buy and Sell Stock.swift in Sources */,
 				42B0C2FF2D41B336008FCC8C /* 283. Move Zeroes.swift in Sources */,
+				42B0C3112D41B336008FCC8C /* 561. Array Partition.swift in Sources */,
 				42BB9D792CCF16FD00A8CB57 /* ListNode.swift in Sources */,
 				42BB9D712CCF159400A8CB57 /* 150. Evaluate Reverse Polish Notation.swift in Sources */,
 				42A7FD0A2CD3151300F02D75 /* 1768. Merge Strings Alternately.swift in Sources */,
