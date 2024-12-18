@@ -59,6 +59,7 @@
 		42B0C3212D41B336008FCC8C /* 1207. Unique Number of Occurrences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3202D41B336008FCC8C /* 1207. Unique Number of Occurrences.swift */; };
 		42B0C3232D41B336008FCC8C /* 1189. Maximum Number of Balloons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3222D41B336008FCC8C /* 1189. Maximum Number of Balloons.swift */; };
 		42B0C3252D41B336008FCC8C /* 1528. Shuffle String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3242D41B336008FCC8C /* 1528. Shuffle String.swift */; };
+		42B0C3272D41B336008FCC8C /* 1108. Defanging an IP Address.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3262D41B336008FCC8C /* 1108. Defanging an IP Address.swift */; };
 		42BB9D5B2CCF14E600A8CB57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */; };
 		42BB9D5D2CCF14E600A8CB57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */; };
 		42BB9D5F2CCF14E600A8CB57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5E2CCF14E600A8CB57 /* ViewController.swift */; };
@@ -150,6 +151,7 @@
 		42B0C3202D41B336008FCC8C /* 1207. Unique Number of Occurrences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1207. Unique Number of Occurrences.swift"; sourceTree = "<group>"; };
 		42B0C3222D41B336008FCC8C /* 1189. Maximum Number of Balloons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1189. Maximum Number of Balloons.swift"; sourceTree = "<group>"; };
 		42B0C3242D41B336008FCC8C /* 1528. Shuffle String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1528. Shuffle String.swift"; sourceTree = "<group>"; };
+		42B0C3262D41B336008FCC8C /* 1108. Defanging an IP Address.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1108. Defanging an IP Address.swift"; sourceTree = "<group>"; };
 		42BB9D572CCF14E600A8CB57 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -299,6 +301,7 @@
 				42B0C31C2D41B336008FCC8C /* 796. Rotate String.swift */,
 				42B0C31A2D41B336008FCC8C /* 819. Most Common Word.swift */,
 				42B0C2E42D408885008FCC8C /* 867. Transpose Matrix.swift */,
+				42B0C3262D41B336008FCC8C /* 1108. Defanging an IP Address.swift */,
 				42B0C3222D41B336008FCC8C /* 1189. Maximum Number of Balloons.swift */,
 				42B0C3202D41B336008FCC8C /* 1207. Unique Number of Occurrences.swift */,
 				42D775712CD07501007F4B77 /* 1249. Minimum Remove to Make Valid Parentheses.swift */,
@@ -431,6 +434,7 @@
 				42A7FD162CD6AF5100F02D75 /* 258. Add Digits.swift in Sources */,
 				42D6E8432D30ABCB00E832FB /* 80. Remove Duplicates from Sorted Array II.swift in Sources */,
 				42D7757E2CD1EB34007F4B77 /* 170. Two Sum III - Data structure design.swift in Sources */,
+				42B0C3272D41B336008FCC8C /* 1108. Defanging an IP Address.swift in Sources */,
 				42D775822CD1F27F007F4B77 /* 231. Power of Two.swift in Sources */,
 				420DD7F42CDD5D8500B85C71 /* 4. Median of Two Sorted Arrays.swift in Sources */,
 				42D7757A2CD1E6F1007F4B77 /* 167. Two Sum II - Input Array Is Sorted.swift in Sources */,
