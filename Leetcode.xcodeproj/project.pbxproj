@@ -60,6 +60,7 @@
 		42B0C3232D41B336008FCC8C /* 1189. Maximum Number of Balloons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3222D41B336008FCC8C /* 1189. Maximum Number of Balloons.swift */; };
 		42B0C3252D41B336008FCC8C /* 1528. Shuffle String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3242D41B336008FCC8C /* 1528. Shuffle String.swift */; };
 		42B0C3272D41B336008FCC8C /* 1108. Defanging an IP Address.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3262D41B336008FCC8C /* 1108. Defanging an IP Address.swift */; };
+		42B0C3292D41B336008FCC8C /* 1512. Number of Good Pairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3282D41B336008FCC8C /* 1512. Number of Good Pairs.swift */; };
 		42BB9D5B2CCF14E600A8CB57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */; };
 		42BB9D5D2CCF14E600A8CB57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */; };
 		42BB9D5F2CCF14E600A8CB57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5E2CCF14E600A8CB57 /* ViewController.swift */; };
@@ -152,6 +153,7 @@
 		42B0C3222D41B336008FCC8C /* 1189. Maximum Number of Balloons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1189. Maximum Number of Balloons.swift"; sourceTree = "<group>"; };
 		42B0C3242D41B336008FCC8C /* 1528. Shuffle String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1528. Shuffle String.swift"; sourceTree = "<group>"; };
 		42B0C3262D41B336008FCC8C /* 1108. Defanging an IP Address.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1108. Defanging an IP Address.swift"; sourceTree = "<group>"; };
+		42B0C3282D41B336008FCC8C /* 1512. Number of Good Pairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1512. Number of Good Pairs.swift"; sourceTree = "<group>"; };
 		42BB9D572CCF14E600A8CB57 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -305,6 +307,7 @@
 				42B0C3222D41B336008FCC8C /* 1189. Maximum Number of Balloons.swift */,
 				42B0C3202D41B336008FCC8C /* 1207. Unique Number of Occurrences.swift */,
 				42D775712CD07501007F4B77 /* 1249. Minimum Remove to Make Valid Parentheses.swift */,
+				42B0C3282D41B336008FCC8C /* 1512. Number of Good Pairs.swift */,
 				42B0C3242D41B336008FCC8C /* 1528. Shuffle String.swift */,
 				420DD7C02CDBE01B00B85C71 /* 1668. Maximum Repeating Substring.swift */,
 				42A7FD092CD3151300F02D75 /* 1768. Merge Strings Alternately.swift */,
@@ -461,6 +464,7 @@
 				42BB9D5D2CCF14E600A8CB57 /* SceneDelegate.swift in Sources */,
 				42B0C2F52D41B336008FCC8C /* 119. Pascal's Triangle II.swift in Sources */,
 				42B0C3212D41B336008FCC8C /* 1207. Unique Number of Occurrences.swift in Sources */,
+				42B0C3292D41B336008FCC8C /* 1512. Number of Good Pairs.swift in Sources */,
 				42B0C30D2D41B336008FCC8C /* 509. Fibonacci Number.swift in Sources */,
 				42B0C3192D41B336008FCC8C /* 771. Jewels and Stones.swift in Sources */,
 				42B0C3252D41B336008FCC8C /* 1528. Shuffle String.swift in Sources */,
