@@ -65,6 +65,7 @@
 		42B0C32D2D41B336008FCC8C /* 1431. Kids With the Greatest Number of Candies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C32C2D41B336008FCC8C /* 1431. Kids With the Greatest Number of Candies.swift */; };
 		42B0C32F2D41B336008FCC8C /* 1470. Shuffle the Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C32E2D41B336008FCC8C /* 1470. Shuffle the Array.swift */; };
 		42B0C3312D41B336008FCC8C /* 917. Reverse Only Letters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3302D41B336008FCC8C /* 917. Reverse Only Letters.swift */; };
+		42B0C3332D41B336008FCC8C /* 1365. How Many Numbers Are Smaller Than the Current Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3322D41B336008FCC8C /* 1365. How Many Numbers Are Smaller Than the Current Number.swift */; };
 		42BB9D5B2CCF14E600A8CB57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */; };
 		42BB9D5D2CCF14E600A8CB57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */; };
 		42BB9D5F2CCF14E600A8CB57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5E2CCF14E600A8CB57 /* ViewController.swift */; };
@@ -162,6 +163,7 @@
 		42B0C32C2D41B336008FCC8C /* 1431. Kids With the Greatest Number of Candies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1431. Kids With the Greatest Number of Candies.swift"; sourceTree = "<group>"; };
 		42B0C32E2D41B336008FCC8C /* 1470. Shuffle the Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1470. Shuffle the Array.swift"; sourceTree = "<group>"; };
 		42B0C3302D41B336008FCC8C /* 917. Reverse Only Letters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "917. Reverse Only Letters.swift"; sourceTree = "<group>"; };
+		42B0C3322D41B336008FCC8C /* 1365. How Many Numbers Are Smaller Than the Current Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1365. How Many Numbers Are Smaller Than the Current Number.swift"; sourceTree = "<group>"; };
 		42BB9D572CCF14E600A8CB57 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -316,6 +318,7 @@
 				42B0C3222D41B336008FCC8C /* 1189. Maximum Number of Balloons.swift */,
 				42B0C3202D41B336008FCC8C /* 1207. Unique Number of Occurrences.swift */,
 				42D775712CD07501007F4B77 /* 1249. Minimum Remove to Make Valid Parentheses.swift */,
+				42B0C3322D41B336008FCC8C /* 1365. How Many Numbers Are Smaller Than the Current Number.swift */,
 				42B0C32A2D41B336008FCC8C /* 1408. String Matching in an Array.swift */,
 				42B0C32C2D41B336008FCC8C /* 1431. Kids With the Greatest Number of Candies.swift */,
 				42B0C32E2D41B336008FCC8C /* 1470. Shuffle the Array.swift */,
@@ -404,6 +407,7 @@
 			files = (
 				42A7FD082CD311C100F02D75 /* 121. Best Time to Buy and Sell Stock.swift in Sources */,
 				42B0C2FF2D41B336008FCC8C /* 283. Move Zeroes.swift in Sources */,
+				42B0C3332D41B336008FCC8C /* 1365. How Many Numbers Are Smaller Than the Current Number.swift in Sources */,
 				42B0C3112D41B336008FCC8C /* 561. Array Partition.swift in Sources */,
 				42B0C31F2D41B336008FCC8C /* 746. Min Cost Climbing Stairs.swift in Sources */,
 				42BB9D792CCF16FD00A8CB57 /* ListNode.swift in Sources */,
