@@ -69,6 +69,7 @@
 		42B0C3352D41B336008FCC8C /* 1672. Richest Customer Wealth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3342D41B336008FCC8C /* 1672. Richest Customer Wealth.swift */; };
 		42B0C3372D41B336008FCC8C /* 1486. XOR Operation in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3362D41B336008FCC8C /* 1486. XOR Operation in an Array.swift */; };
 		42B0C3392D41B336008FCC8C /* 1137. N-th Tribonacci Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3382D41B336008FCC8C /* 1137. N-th Tribonacci Number.swift */; };
+		42B0C33B2D41B336008FCC8C /* 876. Middle of the Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C33A2D41B336008FCC8C /* 876. Middle of the Linked List.swift */; };
 		42BB9D5B2CCF14E600A8CB57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */; };
 		42BB9D5D2CCF14E600A8CB57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */; };
 		42BB9D5F2CCF14E600A8CB57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5E2CCF14E600A8CB57 /* ViewController.swift */; };
@@ -170,6 +171,7 @@
 		42B0C3342D41B336008FCC8C /* 1672. Richest Customer Wealth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1672. Richest Customer Wealth.swift"; sourceTree = "<group>"; };
 		42B0C3362D41B336008FCC8C /* 1486. XOR Operation in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1486. XOR Operation in an Array.swift"; sourceTree = "<group>"; };
 		42B0C3382D41B336008FCC8C /* 1137. N-th Tribonacci Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1137. N-th Tribonacci Number.swift"; sourceTree = "<group>"; };
+		42B0C33A2D41B336008FCC8C /* 876. Middle of the Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "876. Middle of the Linked List.swift"; sourceTree = "<group>"; };
 		42BB9D572CCF14E600A8CB57 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -319,6 +321,7 @@
 				42B0C31C2D41B336008FCC8C /* 796. Rotate String.swift */,
 				42B0C31A2D41B336008FCC8C /* 819. Most Common Word.swift */,
 				42B0C2E42D408885008FCC8C /* 867. Transpose Matrix.swift */,
+				42B0C33A2D41B336008FCC8C /* 876. Middle of the Linked List.swift */,
 				42B0C3302D41B336008FCC8C /* 917. Reverse Only Letters.swift */,
 				42B0C3262D41B336008FCC8C /* 1108. Defanging an IP Address.swift */,
 				42B0C3382D41B336008FCC8C /* 1137. N-th Tribonacci Number.swift */,
@@ -424,6 +427,7 @@
 				42A7FD0A2CD3151300F02D75 /* 1768. Merge Strings Alternately.swift in Sources */,
 				42B0C32D2D41B336008FCC8C /* 1431. Kids With the Greatest Number of Candies.swift in Sources */,
 				42B0C3052D41B336008FCC8C /* 345. Reverse Vowels of a String.swift in Sources */,
+				42B0C33B2D41B336008FCC8C /* 876. Middle of the Linked List.swift in Sources */,
 				42BB9D5F2CCF14E600A8CB57 /* ViewController.swift in Sources */,
 				4242C78B2CD9702F006E4C86 /* 206. Reverse Linked List.swift in Sources */,
 				42B0C3372D41B336008FCC8C /* 1486. XOR Operation in an Array.swift in Sources */,
