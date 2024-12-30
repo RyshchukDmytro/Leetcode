@@ -71,6 +71,7 @@
 		42B0C3392D41B336008FCC8C /* 1137. N-th Tribonacci Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3382D41B336008FCC8C /* 1137. N-th Tribonacci Number.swift */; };
 		42B0C33B2D41B336008FCC8C /* 876. Middle of the Linked List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C33A2D41B336008FCC8C /* 876. Middle of the Linked List.swift */; };
 		42B0C33D2D41B336008FCC8C /* 929. Unique Email Addresses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C33C2D41B336008FCC8C /* 929. Unique Email Addresses.swift */; };
+		42B0C33F2D41B336008FCC8C /* 1507. Reformat Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C33E2D41B336008FCC8C /* 1507. Reformat Date.swift */; };
 		42BB9D5B2CCF14E600A8CB57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */; };
 		42BB9D5D2CCF14E600A8CB57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */; };
 		42BB9D5F2CCF14E600A8CB57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5E2CCF14E600A8CB57 /* ViewController.swift */; };
@@ -174,6 +175,7 @@
 		42B0C3382D41B336008FCC8C /* 1137. N-th Tribonacci Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1137. N-th Tribonacci Number.swift"; sourceTree = "<group>"; };
 		42B0C33A2D41B336008FCC8C /* 876. Middle of the Linked List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "876. Middle of the Linked List.swift"; sourceTree = "<group>"; };
 		42B0C33C2D41B336008FCC8C /* 929. Unique Email Addresses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "929. Unique Email Addresses.swift"; sourceTree = "<group>"; };
+		42B0C33E2D41B336008FCC8C /* 1507. Reformat Date.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1507. Reformat Date.swift"; sourceTree = "<group>"; };
 		42BB9D572CCF14E600A8CB57 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -336,6 +338,7 @@
 				42B0C32C2D41B336008FCC8C /* 1431. Kids With the Greatest Number of Candies.swift */,
 				42B0C32E2D41B336008FCC8C /* 1470. Shuffle the Array.swift */,
 				42B0C3362D41B336008FCC8C /* 1486. XOR Operation in an Array.swift */,
+				42B0C33E2D41B336008FCC8C /* 1507. Reformat Date.swift */,
 				42B0C3282D41B336008FCC8C /* 1512. Number of Good Pairs.swift */,
 				42B0C3242D41B336008FCC8C /* 1528. Shuffle String.swift */,
 				420DD7C02CDBE01B00B85C71 /* 1668. Maximum Repeating Substring.swift */,
@@ -433,6 +436,7 @@
 				42B0C33B2D41B336008FCC8C /* 876. Middle of the Linked List.swift in Sources */,
 				42BB9D5F2CCF14E600A8CB57 /* ViewController.swift in Sources */,
 				4242C78B2CD9702F006E4C86 /* 206. Reverse Linked List.swift in Sources */,
+				42B0C33F2D41B336008FCC8C /* 1507. Reformat Date.swift in Sources */,
 				42B0C3372D41B336008FCC8C /* 1486. XOR Operation in an Array.swift in Sources */,
 				42B0C32F2D41B336008FCC8C /* 1470. Shuffle the Array.swift in Sources */,
 				42A7FD102CD403C900F02D75 /* 7. Reverse Integer.swift in Sources */,
