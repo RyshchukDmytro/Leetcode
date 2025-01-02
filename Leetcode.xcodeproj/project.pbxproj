@@ -74,6 +74,7 @@
 		42B0C33F2D41B336008FCC8C /* 1507. Reformat Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C33E2D41B336008FCC8C /* 1507. Reformat Date.swift */; };
 		42B0C3432D41B336008FCC8C /* 1154. Day of the Year.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3422D41B336008FCC8C /* 1154. Day of the Year.swift */; };
 		42B0C3462D41B336008FCC8C /* 1732. Find the Highest Altitude.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3452D41B336008FCC8C /* 1732. Find the Highest Altitude.swift */; };
+		42B0C3482D41B336008FCC8C /* 1816. Truncate Sentence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3472D41B336008FCC8C /* 1816. Truncate Sentence.swift */; };
 		42BB9D5B2CCF14E600A8CB57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */; };
 		42BB9D5D2CCF14E600A8CB57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */; };
 		42BB9D5F2CCF14E600A8CB57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5E2CCF14E600A8CB57 /* ViewController.swift */; };
@@ -180,6 +181,7 @@
 		42B0C33E2D41B336008FCC8C /* 1507. Reformat Date.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1507. Reformat Date.swift"; sourceTree = "<group>"; };
 		42B0C3422D41B336008FCC8C /* 1154. Day of the Year.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1154. Day of the Year.swift"; sourceTree = "<group>"; };
 		42B0C3452D41B336008FCC8C /* 1732. Find the Highest Altitude.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1732. Find the Highest Altitude.swift"; sourceTree = "<group>"; };
+		42B0C3472D41B336008FCC8C /* 1816. Truncate Sentence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1816. Truncate Sentence.swift"; sourceTree = "<group>"; };
 		42BB9D572CCF14E600A8CB57 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -350,6 +352,7 @@
 				42B0C3342D41B336008FCC8C /* 1672. Richest Customer Wealth.swift */,
 				42B0C3452D41B336008FCC8C /* 1732. Find the Highest Altitude.swift */,
 				42A7FD092CD3151300F02D75 /* 1768. Merge Strings Alternately.swift */,
+				42B0C3472D41B336008FCC8C /* 1816. Truncate Sentence.swift */,
 				42A7FD0B2CD318B400F02D75 /* 2582. Pass the Pillow.swift */,
 				42D7757F2CD1F0D8007F4B77 /* 2235. Add Two Integers.swift */,
 				42D775732CD1C93E007F4B77 /* 2309. Greatest English Letter in Upper and Lower Case.swift */,
@@ -505,6 +508,7 @@
 				42B0C30F2D41B336008FCC8C /* 520. Detect Capital.swift in Sources */,
 				42B0C2ED2D41B336008FCC8C /* 88. Merge Sorted Array.swift in Sources */,
 				42A7FD1C2CD7F35F00F02D75 /* 125. Valid Palindrome.swift in Sources */,
+				42B0C3482D41B336008FCC8C /* 1816. Truncate Sentence.swift in Sources */,
 				42BB9D832CCF18B900A8CB57 /* 70. Climbing Stairs.swift in Sources */,
 				42B0C3092D41B336008FCC8C /* 451. Sort Characters By Frequency.swift in Sources */,
 				42D775802CD1F0D8007F4B77 /* 2235. Add Two Integers.swift in Sources */,
