@@ -53,6 +53,7 @@
 		42B0C3152D41B336008FCC8C /* 657. Robot Return to Origin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3142D41B336008FCC8C /* 657. Robot Return to Origin.swift */; };
 		42B0C3172D41B336008FCC8C /* 709. To Lower Case.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3162D41B336008FCC8C /* 709. To Lower Case.swift */; };
 		42B0C3192D41B336008FCC8C /* 771. Jewels and Stones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3182D41B336008FCC8C /* 771. Jewels and Stones.swift */; };
+		42B0C31B2D41B336008FCC8C /* 819. Most Common Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C31A2D41B336008FCC8C /* 819. Most Common Word.swift */; };
 		42BB9D5B2CCF14E600A8CB57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */; };
 		42BB9D5D2CCF14E600A8CB57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */; };
 		42BB9D5F2CCF14E600A8CB57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5E2CCF14E600A8CB57 /* ViewController.swift */; };
@@ -138,6 +139,7 @@
 		42B0C3142D41B336008FCC8C /* 657. Robot Return to Origin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "657. Robot Return to Origin.swift"; sourceTree = "<group>"; };
 		42B0C3162D41B336008FCC8C /* 709. To Lower Case.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "709. To Lower Case.swift"; sourceTree = "<group>"; };
 		42B0C3182D41B336008FCC8C /* 771. Jewels and Stones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "771. Jewels and Stones.swift"; sourceTree = "<group>"; };
+		42B0C31A2D41B336008FCC8C /* 819. Most Common Word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "819. Most Common Word.swift"; sourceTree = "<group>"; };
 		42BB9D572CCF14E600A8CB57 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -283,6 +285,7 @@
 				42B0C3142D41B336008FCC8C /* 657. Robot Return to Origin.swift */,
 				42B0C3162D41B336008FCC8C /* 709. To Lower Case.swift */,
 				42B0C3182D41B336008FCC8C /* 771. Jewels and Stones.swift */,
+				42B0C31A2D41B336008FCC8C /* 819. Most Common Word.swift */,
 				42B0C2E42D408885008FCC8C /* 867. Transpose Matrix.swift */,
 				42D775712CD07501007F4B77 /* 1249. Minimum Remove to Make Valid Parentheses.swift */,
 				420DD7C02CDBE01B00B85C71 /* 1668. Maximum Repeating Substring.swift */,
@@ -444,6 +447,7 @@
 				42B0C2F72D41B336008FCC8C /* 214. Shortest Palindrome.swift in Sources */,
 				42D775782CD1D22A007F4B77 /* 252. Meeting Rooms.swift in Sources */,
 				42B0C2E52D408886008FCC8C /* 867. Transpose Matrix.swift in Sources */,
+				42B0C31B2D41B336008FCC8C /* 819. Most Common Word.swift in Sources */,
 				42D6E8372D30ABCB00E832FB /* 28. Find the Index of the First Occurrence in a String.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
