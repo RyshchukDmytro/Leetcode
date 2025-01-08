@@ -55,6 +55,7 @@
 		42B0C3192D41B336008FCC8C /* 771. Jewels and Stones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C3182D41B336008FCC8C /* 771. Jewels and Stones.swift */; };
 		42B0C31B2D41B336008FCC8C /* 819. Most Common Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C31A2D41B336008FCC8C /* 819. Most Common Word.swift */; };
 		42B0C31D2D41B336008FCC8C /* 796. Rotate String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C31C2D41B336008FCC8C /* 796. Rotate String.swift */; };
+		42B0C31F2D41B336008FCC8C /* 746. Min Cost Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C31E2D41B336008FCC8C /* 746. Min Cost Climbing Stairs.swift */; };
 		42BB9D5B2CCF14E600A8CB57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */; };
 		42BB9D5D2CCF14E600A8CB57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */; };
 		42BB9D5F2CCF14E600A8CB57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5E2CCF14E600A8CB57 /* ViewController.swift */; };
@@ -142,6 +143,7 @@
 		42B0C3182D41B336008FCC8C /* 771. Jewels and Stones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "771. Jewels and Stones.swift"; sourceTree = "<group>"; };
 		42B0C31A2D41B336008FCC8C /* 819. Most Common Word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "819. Most Common Word.swift"; sourceTree = "<group>"; };
 		42B0C31C2D41B336008FCC8C /* 796. Rotate String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "796. Rotate String.swift"; sourceTree = "<group>"; };
+		42B0C31E2D41B336008FCC8C /* 746. Min Cost Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "746. Min Cost Climbing Stairs.swift"; sourceTree = "<group>"; };
 		42BB9D572CCF14E600A8CB57 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -286,6 +288,7 @@
 				42B0C3122D41B336008FCC8C /* 649. Dota2 Senate.swift */,
 				42B0C3142D41B336008FCC8C /* 657. Robot Return to Origin.swift */,
 				42B0C3162D41B336008FCC8C /* 709. To Lower Case.swift */,
+				42B0C31E2D41B336008FCC8C /* 746. Min Cost Climbing Stairs.swift */,
 				42B0C3182D41B336008FCC8C /* 771. Jewels and Stones.swift */,
 				42B0C31C2D41B336008FCC8C /* 796. Rotate String.swift */,
 				42B0C31A2D41B336008FCC8C /* 819. Most Common Word.swift */,
@@ -375,6 +378,7 @@
 				42A7FD082CD311C100F02D75 /* 121. Best Time to Buy and Sell Stock.swift in Sources */,
 				42B0C2FF2D41B336008FCC8C /* 283. Move Zeroes.swift in Sources */,
 				42B0C3112D41B336008FCC8C /* 561. Array Partition.swift in Sources */,
+				42B0C31F2D41B336008FCC8C /* 746. Min Cost Climbing Stairs.swift in Sources */,
 				42BB9D792CCF16FD00A8CB57 /* ListNode.swift in Sources */,
 				42BB9D712CCF159400A8CB57 /* 150. Evaluate Reverse Polish Notation.swift in Sources */,
 				42A7FD0A2CD3151300F02D75 /* 1768. Merge Strings Alternately.swift in Sources */,
