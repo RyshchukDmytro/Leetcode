@@ -36,6 +36,7 @@
 		42B0C2ED2D41B336008FCC8C /* 88. Merge Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C2EC2D41B336008FCC8C /* 88. Merge Sorted Array.swift */; };
 		42B0C2F12D41B336008FCC8C /* 118. Pascal's Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C2F02D41B336008FCC8C /* 118. Pascal's Triangle.swift */; };
 		42B0C2F52D41B336008FCC8C /* 119. Pascal's Triangle II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C2F42D41B336008FCC8C /* 119. Pascal's Triangle II.swift */; };
+		42B0C2F72D41B336008FCC8C /* 214. Shortest Palindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C2F62D41B336008FCC8C /* 214. Shortest Palindrome.swift */; };
 		42BB9D5B2CCF14E600A8CB57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */; };
 		42BB9D5D2CCF14E600A8CB57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */; };
 		42BB9D5F2CCF14E600A8CB57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5E2CCF14E600A8CB57 /* ViewController.swift */; };
@@ -104,6 +105,7 @@
 		42B0C2EC2D41B336008FCC8C /* 88. Merge Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "88. Merge Sorted Array.swift"; sourceTree = "<group>"; };
 		42B0C2F02D41B336008FCC8C /* 118. Pascal's Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "118. Pascal's Triangle.swift"; sourceTree = "<group>"; };
 		42B0C2F42D41B336008FCC8C /* 119. Pascal's Triangle II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "119. Pascal's Triangle II.swift"; sourceTree = "<group>"; };
+		42B0C2F62D41B336008FCC8C /* 214. Shortest Palindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "214. Shortest Palindrome.swift"; sourceTree = "<group>"; };
 		42BB9D572CCF14E600A8CB57 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -221,6 +223,7 @@
 				42D7757D2CD1EB34007F4B77 /* 170. Two Sum III - Data structure design.swift */,
 				420DD7932CDA77BF00B85C71 /* 189. Rotate Array.swift */,
 				4242C78A2CD9702D006E4C86 /* 206. Reverse Linked List.swift */,
+				42B0C2F62D41B336008FCC8C /* 214. Shortest Palindrome.swift */,
 				42D775812CD1F27F007F4B77 /* 231. Power of Two.swift */,
 				4242C78C2CD97107006E4C86 /* 234. Palindrome Linked List.swift */,
 				42A7FD1F2CD7F68A00F02D75 /* 242. Valid Anagram.swift */,
@@ -374,6 +377,7 @@
 				42BB9D7F2CCF180000A8CB57 /* 33. Search in Rotated Sorted Array.swift in Sources */,
 				42A7FD202CD7F68A00F02D75 /* 242. Valid Anagram.swift in Sources */,
 				42A7FD122CD4883D00F02D75 /* 539. Minimum Time Difference.swift in Sources */,
+				42B0C2F72D41B336008FCC8C /* 214. Shortest Palindrome.swift in Sources */,
 				42D775782CD1D22A007F4B77 /* 252. Meeting Rooms.swift in Sources */,
 				42B0C2E52D408886008FCC8C /* 867. Transpose Matrix.swift in Sources */,
 				42D6E8372D30ABCB00E832FB /* 28. Find the Index of the First Occurrence in a String.swift in Sources */,
