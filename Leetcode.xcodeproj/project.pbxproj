@@ -37,6 +37,7 @@
 		42B0C2F12D41B336008FCC8C /* 118. Pascal's Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C2F02D41B336008FCC8C /* 118. Pascal's Triangle.swift */; };
 		42B0C2F52D41B336008FCC8C /* 119. Pascal's Triangle II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C2F42D41B336008FCC8C /* 119. Pascal's Triangle II.swift */; };
 		42B0C2F72D41B336008FCC8C /* 214. Shortest Palindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C2F62D41B336008FCC8C /* 214. Shortest Palindrome.swift */; };
+		42B0C2F92D41B336008FCC8C /* 169. Majority Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C2F82D41B336008FCC8C /* 169. Majority Element.swift */; };
 		42BB9D5B2CCF14E600A8CB57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */; };
 		42BB9D5D2CCF14E600A8CB57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */; };
 		42BB9D5F2CCF14E600A8CB57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5E2CCF14E600A8CB57 /* ViewController.swift */; };
@@ -106,6 +107,7 @@
 		42B0C2F02D41B336008FCC8C /* 118. Pascal's Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "118. Pascal's Triangle.swift"; sourceTree = "<group>"; };
 		42B0C2F42D41B336008FCC8C /* 119. Pascal's Triangle II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "119. Pascal's Triangle II.swift"; sourceTree = "<group>"; };
 		42B0C2F62D41B336008FCC8C /* 214. Shortest Palindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "214. Shortest Palindrome.swift"; sourceTree = "<group>"; };
+		42B0C2F82D41B336008FCC8C /* 169. Majority Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "169. Majority Element.swift"; sourceTree = "<group>"; };
 		42BB9D572CCF14E600A8CB57 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -220,6 +222,7 @@
 				42BB9D7A2CCF175F00A8CB57 /* 141. Linked List Cycle.swift */,
 				42BB9D702CCF159400A8CB57 /* 150. Evaluate Reverse Polish Notation.swift */,
 				42D775792CD1E6F1007F4B77 /* 167. Two Sum II - Input Array Is Sorted.swift */,
+				42B0C2F82D41B336008FCC8C /* 169. Majority Element.swift */,
 				42D7757D2CD1EB34007F4B77 /* 170. Two Sum III - Data structure design.swift */,
 				420DD7932CDA77BF00B85C71 /* 189. Rotate Array.swift */,
 				4242C78A2CD9702D006E4C86 /* 206. Reverse Linked List.swift */,
@@ -347,6 +350,7 @@
 				420DD7C12CDBE01C00B85C71 /* 1668. Maximum Repeating Substring.swift in Sources */,
 				42D6E83B2D30ABCB00E832FB /* 41. First Missing Positive.swift in Sources */,
 				42D6E8332D30ABCB00E832FB /* 27. Remove Element.swift in Sources */,
+				42B0C2F92D41B336008FCC8C /* 169. Majority Element.swift in Sources */,
 				42D775722CD07501007F4B77 /* 1249. Minimum Remove to Make Valid Parentheses.swift in Sources */,
 				42BB9D7B2CCF175F00A8CB57 /* 141. Linked List Cycle.swift in Sources */,
 				420DD7C32CDBE10A00B85C71 /* 55. Jump Game.swift in Sources */,
