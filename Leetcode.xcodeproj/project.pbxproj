@@ -38,6 +38,7 @@
 		42B0C2F52D41B336008FCC8C /* 119. Pascal's Triangle II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C2F42D41B336008FCC8C /* 119. Pascal's Triangle II.swift */; };
 		42B0C2F72D41B336008FCC8C /* 214. Shortest Palindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C2F62D41B336008FCC8C /* 214. Shortest Palindrome.swift */; };
 		42B0C2F92D41B336008FCC8C /* 169. Majority Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C2F82D41B336008FCC8C /* 169. Majority Element.swift */; };
+		42B0C2FB2D41B336008FCC8C /* 122. Best Time to Buy and Sell Stock II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C2FA2D41B336008FCC8C /* 122. Best Time to Buy and Sell Stock II.swift */; };
 		42BB9D5B2CCF14E600A8CB57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */; };
 		42BB9D5D2CCF14E600A8CB57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */; };
 		42BB9D5F2CCF14E600A8CB57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5E2CCF14E600A8CB57 /* ViewController.swift */; };
@@ -108,6 +109,7 @@
 		42B0C2F42D41B336008FCC8C /* 119. Pascal's Triangle II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "119. Pascal's Triangle II.swift"; sourceTree = "<group>"; };
 		42B0C2F62D41B336008FCC8C /* 214. Shortest Palindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "214. Shortest Palindrome.swift"; sourceTree = "<group>"; };
 		42B0C2F82D41B336008FCC8C /* 169. Majority Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "169. Majority Element.swift"; sourceTree = "<group>"; };
+		42B0C2FA2D41B336008FCC8C /* 122. Best Time to Buy and Sell Stock II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "122. Best Time to Buy and Sell Stock II.swift"; sourceTree = "<group>"; };
 		42BB9D572CCF14E600A8CB57 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -218,6 +220,7 @@
 				42B0C2F02D41B336008FCC8C /* 118. Pascal's Triangle.swift */,
 				42B0C2F42D41B336008FCC8C /* 119. Pascal's Triangle II.swift */,
 				42A7FD072CD311C100F02D75 /* 121. Best Time to Buy and Sell Stock.swift */,
+				42B0C2FA2D41B336008FCC8C /* 122. Best Time to Buy and Sell Stock II.swift */,
 				42A7FD1B2CD7F35F00F02D75 /* 125. Valid Palindrome.swift */,
 				42BB9D7A2CCF175F00A8CB57 /* 141. Linked List Cycle.swift */,
 				42BB9D702CCF159400A8CB57 /* 150. Evaluate Reverse Polish Notation.swift */,
@@ -334,6 +337,7 @@
 				42D6E8272D30A21600E832FB /* 3. Longest Substring Without Repeating Characters.swift in Sources */,
 				42B0C2EB2D41B336008FCC8C /* 73. Set Matrix Zeroes.swift in Sources */,
 				42B0C2E92D409EA5008FCC8C /* 566. Reshape the Matrix.swift in Sources */,
+				42B0C2FB2D41B336008FCC8C /* 122. Best Time to Buy and Sell Stock II.swift in Sources */,
 				42D7757C2CD1E906007F4B77 /* 1. Two Sum.swift in Sources */,
 				42D6E83F2D30ABCB00E832FB /* 71. Simplify Path.swift in Sources */,
 				42D6E83D2D30ABCB00E832FB /* 48. Rotate Image.swift in Sources */,
