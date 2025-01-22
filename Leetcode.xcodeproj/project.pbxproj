@@ -31,6 +31,7 @@
 		42A7FD222CD7FE8D00F02D75 /* 83. Remove Duplicates from Sorted List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A7FD212CD7FE8D00F02D75 /* 83. Remove Duplicates from Sorted List.swift */; };
 		42B0C2E52D408886008FCC8C /* 867. Transpose Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C2E42D408885008FCC8C /* 867. Transpose Matrix.swift */; };
 		42B0C2E72D408996008FCC8C /* 74. Search a 2D Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C2E62D408994008FCC8C /* 74. Search a 2D Matrix.swift */; };
+		42B0C2E92D409EA5008FCC8C /* 566. Reshape the Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C2E82D409EA3008FCC8C /* 566. Reshape the Matrix.swift */; };
 		42BB9D5B2CCF14E600A8CB57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */; };
 		42BB9D5D2CCF14E600A8CB57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */; };
 		42BB9D5F2CCF14E600A8CB57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5E2CCF14E600A8CB57 /* ViewController.swift */; };
@@ -94,6 +95,7 @@
 		42A7FD212CD7FE8D00F02D75 /* 83. Remove Duplicates from Sorted List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "83. Remove Duplicates from Sorted List.swift"; sourceTree = "<group>"; };
 		42B0C2E42D408885008FCC8C /* 867. Transpose Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "867. Transpose Matrix.swift"; sourceTree = "<group>"; };
 		42B0C2E62D408994008FCC8C /* 74. Search a 2D Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74. Search a 2D Matrix.swift"; sourceTree = "<group>"; };
+		42B0C2E82D409EA3008FCC8C /* 566. Reshape the Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "566. Reshape the Matrix.swift"; sourceTree = "<group>"; };
 		42BB9D572CCF14E600A8CB57 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -217,6 +219,7 @@
 				42A7FD1D2CD7F57A00F02D75 /* 392. Is Subsequence.swift */,
 				420DD7952CDA782800B85C71 /* 412. Fizz Buzz.swift */,
 				42A7FD112CD4883D00F02D75 /* 539. Minimum Time Difference.swift */,
+				42B0C2E82D409EA3008FCC8C /* 566. Reshape the Matrix.swift */,
 				42B0C2E42D408885008FCC8C /* 867. Transpose Matrix.swift */,
 				42D775712CD07501007F4B77 /* 1249. Minimum Remove to Make Valid Parentheses.swift */,
 				420DD7C02CDBE01B00B85C71 /* 1668. Maximum Repeating Substring.swift */,
@@ -311,6 +314,7 @@
 				42BB9D852CCF250F00A8CB57 /* 66. Plus One.swift in Sources */,
 				42A7FD142CD5D22700F02D75 /* 58. Length of Last Word.swift in Sources */,
 				42D6E8272D30A21600E832FB /* 3. Longest Substring Without Repeating Characters.swift in Sources */,
+				42B0C2E92D409EA5008FCC8C /* 566. Reshape the Matrix.swift in Sources */,
 				42D7757C2CD1E906007F4B77 /* 1. Two Sum.swift in Sources */,
 				42D6E83F2D30ABCB00E832FB /* 71. Simplify Path.swift in Sources */,
 				42D6E83D2D30ABCB00E832FB /* 48. Rotate Image.swift in Sources */,
