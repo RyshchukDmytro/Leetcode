@@ -29,6 +29,7 @@
 		42A7FD1E2CD7F57A00F02D75 /* 392. Is Subsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A7FD1D2CD7F57A00F02D75 /* 392. Is Subsequence.swift */; };
 		42A7FD202CD7F68A00F02D75 /* 242. Valid Anagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A7FD1F2CD7F68A00F02D75 /* 242. Valid Anagram.swift */; };
 		42A7FD222CD7FE8D00F02D75 /* 83. Remove Duplicates from Sorted List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A7FD212CD7FE8D00F02D75 /* 83. Remove Duplicates from Sorted List.swift */; };
+		42B0C2E52D408886008FCC8C /* 867. Transpose Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42B0C2E42D408885008FCC8C /* 867. Transpose Matrix.swift */; };
 		42BB9D5B2CCF14E600A8CB57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */; };
 		42BB9D5D2CCF14E600A8CB57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */; };
 		42BB9D5F2CCF14E600A8CB57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BB9D5E2CCF14E600A8CB57 /* ViewController.swift */; };
@@ -90,6 +91,7 @@
 		42A7FD1D2CD7F57A00F02D75 /* 392. Is Subsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "392. Is Subsequence.swift"; sourceTree = "<group>"; };
 		42A7FD1F2CD7F68A00F02D75 /* 242. Valid Anagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "242. Valid Anagram.swift"; sourceTree = "<group>"; };
 		42A7FD212CD7FE8D00F02D75 /* 83. Remove Duplicates from Sorted List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "83. Remove Duplicates from Sorted List.swift"; sourceTree = "<group>"; };
+		42B0C2E42D408885008FCC8C /* 867. Transpose Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "867. Transpose Matrix.swift"; sourceTree = "<group>"; };
 		42BB9D572CCF14E600A8CB57 /* Leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42BB9D5A2CCF14E600A8CB57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42BB9D5C2CCF14E600A8CB57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -212,6 +214,7 @@
 				42A7FD1D2CD7F57A00F02D75 /* 392. Is Subsequence.swift */,
 				420DD7952CDA782800B85C71 /* 412. Fizz Buzz.swift */,
 				42A7FD112CD4883D00F02D75 /* 539. Minimum Time Difference.swift */,
+				42B0C2E42D408885008FCC8C /* 867. Transpose Matrix.swift */,
 				42D775712CD07501007F4B77 /* 1249. Minimum Remove to Make Valid Parentheses.swift */,
 				420DD7C02CDBE01B00B85C71 /* 1668. Maximum Repeating Substring.swift */,
 				42A7FD092CD3151300F02D75 /* 1768. Merge Strings Alternately.swift */,
@@ -348,6 +351,7 @@
 				42A7FD202CD7F68A00F02D75 /* 242. Valid Anagram.swift in Sources */,
 				42A7FD122CD4883D00F02D75 /* 539. Minimum Time Difference.swift in Sources */,
 				42D775782CD1D22A007F4B77 /* 252. Meeting Rooms.swift in Sources */,
+				42B0C2E52D408886008FCC8C /* 867. Transpose Matrix.swift in Sources */,
 				42D6E8372D30ABCB00E832FB /* 28. Find the Index of the First Occurrence in a String.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
